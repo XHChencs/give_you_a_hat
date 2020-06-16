@@ -17,8 +17,8 @@ addhatv2.py是针对第一代版本的改进
 
 ## 结果展示
 选择图片界面
-![]('results/1.png')
+![界面1]('./results/1.png')
 生成头像界面
-![]('results/3.png')
+![界面2]('./results/3.png')
 无法识别头像时的提示
-![]('results/5.png')
+![界面3]('./results/5.png')
